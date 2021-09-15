@@ -1,1 +1,1 @@
-# Python-appunti-add-esercizi
+# Python-appunti-ed-esercizi
