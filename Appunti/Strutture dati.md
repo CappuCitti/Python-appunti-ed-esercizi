@@ -5,7 +5,7 @@
 :link: [Wikipedia](https://it.wikipedia.org/wiki/Struttura_dati)
 
 ## Memorizzazione *temporanea* e *permanente*
-Le strutture dati posso memorizzare i dati in modo:
+Le strutture dati possono memorizzare i dati in modo:
 - Temporaneo
 	- Variabili del programma => RAM
 - Permanente
