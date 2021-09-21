@@ -1,34 +1,40 @@
 # Data structurs
 *La struttura dati è un metodo di organizzazione dati, quindi prescinde da ciò che è effettivamente contenuto.*
+
 *Una struttura dati è un'entità usata per organizzare un insieme di dati all'interno della memoria del computer, ed eventualmente per memorizzarli in una memoria di massa.*
 
+
 :link: [Wikipedia](https://it.wikipedia.org/wiki/Struttura_dati)
+
+
 
 **Le strutture dati vanno scelte in base alle esigenze**
 
 
-Struttura dati che memorizzano i dati in modo temporaneo o in modo permanente
+## Memorizzazione *temporanea* e *permanente*
+Le strutture dati posso memorizzare i dati in modo:
 - Temporaneo
-	Variabili del programma => RAM
+	- Variabili del programma => RAM
+- Permanente
+	- File => HDD/SSD
 
-- Statico
-	File => HDD/SSD
 
-
-Si suddividono in *statiche* e *dinamiche*
+## Strutture dati *statiche* e *dinamiche*:
 - Statiche:
 	Hanno un numero definito di elementi
-	'''vb
+	```vb
+	'Visual Basic
 	Dim x[99] As Integer
-	'''
+	```
 	
 - Dinamiche:
 	Hanno un n umero variabile di elementi
-	'''py
+	```py
+	#Python
 	list = [1, 2, 3, 'pippo']
-	'''
+	```
 	
-**Contenitori**:
+## Contenitori:
 - Pila (Es: I valori vengono inseriti all'inizio)
 	LIFO:  Last In First Out
 - Coda o FIFO (Es: I valori vengono inseriti alla fine)
