@@ -21,7 +21,7 @@ Le strutture dati posso memorizzare i dati in modo:
 	```
 	
 - Dinamiche:
-	Hanno un n umero variabile di elementi
+	Hanno un umero variabile di elementi
 	```py
 	#Python
 	list = [1, 2, 3, 'pippo']
