@@ -1,0 +1,42 @@
+# Data structurs
+*La struttura dati è un metodo di organizzazione dati, quindi prescinde da ciò che è effettivamente contenuto.*
+*Una struttura dati è un'entità usata per organizzare un insieme di dati all'interno della memoria del computer, ed eventualmente per memorizzarli in una memoria di massa.*
+
+:link: [Wikipedia](https://it.wikipedia.org/wiki/Struttura_dati)
+
+**Le strutture dati vanno scelte in base alle esigenze**
+
+
+Struttura dati che memorizzano i dati in modo temporaneo o in modo permanente
+- Temporaneo
+	Variabili del programma => RAM
+
+- Statico
+	File => HDD/SSD
+
+
+Si suddividono in *statiche* e *dinamiche*
+- Statiche:
+	Hanno un numero definito di elementi
+	'''vb
+	Dim x[99] As Integer
+	'''
+	
+- Dinamiche:
+	Hanno un n umero variabile di elementi
+	'''py
+	list = [1, 2, 3, 'pippo']
+	'''
+	
+**Contenitori**:
+- Pila (Es: I valori vengono inseriti all'inizio)
+	LIFO:  Last In First Out
+- Coda o FIFO (Es: I valori vengono inseriti alla fine)
+	FIFO: First In First Out
+	FCFS: First Come First Serve
+  
+	- Lista
+	- [Albero](https://it.wikipedia.org/wiki/Albero_(informatica)) (Es: Albero genialogico, scala gerarchica)
+	- [Grafo](https://it.wikipedia.org/wiki/Grafo) (Es: Archiviazione dati dei social)
+	
+La differenza tra Albero e Grafo è che nel grafo i non ci devono essere per forza relazioni e che possono anche essere orientato
