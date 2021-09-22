@@ -1,7 +1,7 @@
 # Nomi delle funzioni
 
 ## Slicing
-Lo *slicing* per mettere di tagliare un array nelle posizioni necessarie:<br>
+Lo *slicing* permette di tagliare un array nelle posizioni desiderate:<br>
 ```py
 #Slicing
 arr = [i for i in range(0, 100)]
