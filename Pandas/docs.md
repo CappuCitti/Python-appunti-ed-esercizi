@@ -51,7 +51,7 @@ data = {
 
 df = pd.DataFrame(data, index=['riga_a', 'riga_b', 'riga_c'])
 ```
-<img src="./Data/result.png" style="margin:auto" alt="Risultato" draggable="false">
+![Risultato](./Data/result.png)
 
 
 
