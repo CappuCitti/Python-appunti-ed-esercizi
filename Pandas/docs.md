@@ -69,7 +69,7 @@ d = {
 df = pd.DataFrame(d)
 
 #Imporatre un file locale (CSV)
-df2 = pd.read_csv('data/uffici_postali_milano.csv')
+df2 = pd.read_csv('./Data/uffici_postali_milano.csv')
 
 #Imporate file da link diretto (CSV)
 url = 'https://raw.githubusercontent.com/jorisvandenbossche/pandas-tutorial/master/data/titanic.csv'
@@ -79,6 +79,6 @@ E' possibile anche imporatre anche solo delle colonne specifiche da file CVS
 ```py
 import pandas as pd
 
-data = pd.read_csv('data/uffici_postali_milano.csv')
+data = pd.read_csv('./Data/uffici_postali_milano.csv')
 df = pd.DataFrame(data, columns=['Indirizzo', 'Telefono', 'CAP'])
 ```
