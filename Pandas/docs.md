@@ -36,6 +36,8 @@ s = pd.Series(li)
 #Più complesso
 s2 = pd.Series([pow(i, 2) for i in range(10)], index=list('abcdefghil'), name='potenze')
 ```
+![Risultato](./Data/result_s-base.png)
+![Risultato](./Data/result_s-advanced.png)
 <br>
 
 - *Data Frame*
@@ -51,7 +53,7 @@ data = {
 
 df = pd.DataFrame(data, index=['riga_a', 'riga_b', 'riga_c'])
 ```
-![Risultato](./Data/result.png)
+![Risultato](./Data/result_df-from-array.png)
 
 
 
@@ -79,6 +81,5 @@ E' possibile anche imporatre anche solo delle colonne specifiche da file CVS
 ```py
 import pandas as pd
 
-data = pd.read_csv('./Data/uffici_postali_milano.csv')
-df = pd.DataFrame(data, columns=['Indirizzo', 'Telefono', 'CAP'])
+df = pd.read_csv('./Data/uffici_postali_milano.csv', usecols=['Indirizzo', 'Telefono', 'CAP']))
 ```
