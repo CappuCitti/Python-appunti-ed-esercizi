@@ -16,7 +16,15 @@ Quando si lavora con *dati tabulari o strutturati* (come tabelle SQL, fogli Exce
 - Elaborare e preparare i tuoi dati per l'analisi
 - Analizzare i tuoi dati (insieme a [scikit-learn](https://scikit-learn.org/stable/), [Statsmodels](https://www.statsmodels.org/stable/index.html), ...)
 
+## Perché *Pandas* e non *Excel*?
+- Pandas è scritto in Python, il che lo rende molto più aperto rispetto ad Excel
+- Excel tende a diventare più lento con tabelle più pesanti
+
 ## Come utilizzare *Pandas*?
+Prima di utilizzare la libreria è necessario importarla tramite il terminale di sistema (se la libreria non è presente su *Colab* è possibile installarla scrivendo la seguente linea in un area di codice)
+```cmd
+pip install pandas
+```
 Per utilizzare la libreria nel proprio codice è necessario importarla:
 ```py
 import pandas as pd
