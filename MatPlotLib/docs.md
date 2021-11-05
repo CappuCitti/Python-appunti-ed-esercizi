@@ -23,8 +23,12 @@ Ecco qui un esempio di grafico, in questo caso è un grafico lineare.
 x_values = [0,1,2,3,4,5]
 y_values = [0,1,4,9,16,25]
 
-# matplotlib.pyplot.plot() crea un grafico lineare
-plt.plot(x_values, y_values)
+# Suddivide matplotlib.pyplot.plot() in figura e assi
+fig = plt.figure()
+ax = plt.axes()
+
+# Impotsa il tipo di grafico
+ax.plot(x_values, y_values)
 
 # Visualizza il grafico 
 plt.show()
