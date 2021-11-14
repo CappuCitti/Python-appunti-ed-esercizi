@@ -46,5 +46,7 @@ import numpy as np
 Funzione | Descrizione | Esempio | Risultato
 --- | --- | --- | ---
 `np.arange([start, ]stop, [step, ])` | Crea un array di numeri interi da i valori dati | |
-`np.reshape(arr, (n1, n2))` | Dà una nuova forma a un array tramite i valori dati senza modificarne i dati.<br>`arr` Array<br>`n1` Indica il numero di array da restituire<br>`n2` Indica il valore da restituire per ogni array| |
+`np.reshape(arr, (n1, n2))` | Restituisce una nuova forma a un array tramite i valori dati senza modificarne i dati.<br>`arr` Array<br>`n1` Indica il numero di array da restituire<br>`n2` Indica il valore da restituire per ogni array| |
 `np.random.rand(d0, d1, ..., dn)` | Restituisce valori casuali nel formato dato | `np.random.rand(2, 3)` | `array([[0.70418549, 0.15846463, 0.41533206], [0.19298845, 0.18760822, 0.78978225]])`
+`np.add(arr1, arr2)` | Restituisce la somma tra due array | `np.add([1, 2, 3], [4, 5, 6])` | `[5, 7, 9]`
+`np.subtract(arr1, arr2)` | Restituisce la differenza tra due array | `np.subtract([4, 5, 6], [1, 2, 3])` | `[3, 3, 3]`
