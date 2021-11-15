@@ -1,7 +1,8 @@
 [{
   "state": "Monitorig",
-  "dayOfMonitoring": 5,
+  "description": "The recorded data will relate to a group chat composed of 20 members for the relative period from 2021-11-10 to 2021-11-16"
+  "dayOfMonitoring": 6,
   "totalDays": 7,
-  "currentEntryes_around": 130,
-  "lastUpdate": "2021-11-14T20:15:04.417Z"
+  "currentEntryes_around": 172,
+  "lastUpdate": "2021-11-15T16:59:57.800Z"
 }]
