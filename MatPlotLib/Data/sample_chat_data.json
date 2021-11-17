@@ -1,8 +1,1746 @@
-[{
-  "state": "Monitorig",
-  "description": "The recorded data will relate to a group chat composed of 20 members for the relative period from 2021-11-10 to 2021-11-16"
-  "dayOfMonitoring": 6,
-  "totalDays": 7,
-  "currentEntryes_around": 172,
-  "lastUpdate": "2021-11-15T16:59:57.800Z"
-}]
+[
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 43,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-10T20:09:29.209Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-10T20:13:24.176Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 38,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-10T20:13:36.119Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 33,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-10T20:13:49.332Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-10T20:17:00.923Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 1279,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-10T20:17:07.553Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 23,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-10T20:17:46.669Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 13,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-10T20:17:49.174Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 13,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-10T20:17:55.929Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 3,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-10T20:36:48.663Z"
+  },
+  {
+    "user_id": "966aa@kp",
+    "message_length": 2,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T09:17:50.251Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 9,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T09:18:28.132Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 4,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T09:19:31.141Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 19,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T09:20:06.028Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 24,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T09:20:10.108Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 33,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T09:20:18.750Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 5,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T10:01:46.251Z"
+  },
+  {
+    "user_id": "f9a70@kp",
+    "message_length": 65,
+    "device_type": "web",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T10:56:03.054Z"
+  },
+  {
+    "user_id": "f9a70@kp",
+    "message_length": 30,
+    "device_type": "web",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T10:56:05.882Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 32,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T10:58:47.405Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 65,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T16:35:59.326Z"
+  },
+  {
+    "user_id": "f4511@kp",
+    "message_length": 29,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": true,
+    "full_date": "2021-11-11T16:37:45.922Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 219,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T16:39:39.360Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 35,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-11T16:40:00.035Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-11T16:40:25.080Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 21,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": true,
+    "full_date": "2021-11-11T16:40:52.261Z"
+  },
+  {
+    "user_id": "f4511@kp",
+    "message_length": 29,
+    "device_type": "ios",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-11T19:08:16.641Z"
+  },
+  {
+    "user_id": "f4511@kp",
+    "message_length": 18,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T19:08:29.001Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 25,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T19:09:23.555Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 49,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T20:02:55.668Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 15,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T20:26:00.204Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 6,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T20:32:08.317Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-11T20:36:11.702Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 7,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T20:36:16.811Z"
+  },
+  {
+    "user_id": "f9756@kp",
+    "message_length": 7,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T20:36:41.724Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 5,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T20:37:40.004Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 23,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T20:38:00.919Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 15,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T20:38:04.389Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 28,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T20:38:36.034Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 41,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T22:11:46.017Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 15,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T22:11:51.132Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 2,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T22:12:27.570Z"
+  },
+  {
+    "user_id": "f9756@kp",
+    "message_length": 48,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-11T22:13:38.171Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-11T22:14:05.851Z"
+  },
+  {
+    "user_id": "f9756@kp",
+    "message_length": 15,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-12T11:53:51.002Z"
+  },
+  {
+    "user_id": "f9756@kp",
+    "message_length": 28,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T11:54:03.054Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 9,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T11:54:17.152Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 3,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T11:54:49.111Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 55,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T11:55:01.827Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 37,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T11:57:08.564Z"
+  },
+  {
+    "user_id": "f9742@kp",
+    "message_length": 33,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T12:20:21.231Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 14,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:43:39.443Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 36,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:43:49.469Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 5,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:44:04.641Z"
+  },
+  {
+    "user_id": "96199@kp",
+    "message_length": 11,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:44:10.324Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 10,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:44:17.712Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 3,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:44:19.342Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 7,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:44:31.248Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 8,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:44:32.875Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-12T13:44:41.511Z"
+  },
+  {
+    "user_id": "96199@kp",
+    "message_length": 1,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:44:41.694Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 19,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:46:14.561Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 3,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:46:32.649Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 10,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:46:43.961Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 16,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:47:04.958Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 12,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:47:22.566Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 31,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:47:29.737Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 37,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:47:39.265Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 31,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:48:18.404Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 2,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:48:27.902Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 29,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:51:49.932Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 39,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:52:05.910Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 5,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:53:19.299Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 4,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:53:20.565Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 10,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:56:45.478Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 132,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:58:10.343Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 2,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:58:38.723Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 26,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T13:59:18.112Z"
+  },
+  {
+    "user_id": "96199@kp",
+    "message_length": 2,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:00:29.515Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 27,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:02:06.585Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 13,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:03:50.918Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 7,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:04:01.898Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 4,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:05:32.317Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 1,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:06:41.210Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 10,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:06:44.176Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 5,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:06:45.209Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 18,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:06:49.215Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 16,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:06:53.077Z"
+  },
+  {
+    "user_id": "96199@kp",
+    "message_length": 4,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:07:14.675Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 20,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:07:35.607Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 3,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:07:40.728Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 3,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:07:42.498Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 10,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:07:52.605Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 9,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:07:57.070Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 15,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:08:08.923Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 2,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:08:13.791Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 4,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:08:18.122Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 4,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:08:26.694Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 35,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:08:38.892Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 2,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:11:13.740Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-12T14:12:21.604Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 60,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:12:37.694Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 40,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:13:04.421Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 44,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T14:13:13.529Z"
+  },
+  {
+    "user_id": "f9a70@kp",
+    "message_length": 24,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T15:36:19.617Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 3,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-12T15:37:26.299Z"
+  },
+  {
+    "user_id": "f4511@kp",
+    "message_length": 0,
+    "device_type": "ios",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-13T20:10:48.031Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-13T20:20:03.499Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 11,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T11:09:41.151Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-14T11:11:47.624Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 25,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T11:14:24.500Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 4,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T11:14:27.688Z"
+  },
+  {
+    "user_id": "9679f@kp",
+    "message_length": 43,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T11:39:03.995Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 6,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T11:39:16.788Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 4,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T11:49:13.161Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 6,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T11:50:35.117Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 25,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T11:50:40.476Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 168,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T12:03:02.830Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 37,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T12:14:44.295Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 41,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T12:15:01.371Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 3,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T12:15:05.338Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 25,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T12:15:14.675Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 20,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T12:15:21.955Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 25,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T12:15:26.601Z"
+  },
+  {
+    "user_id": "f5740@kp",
+    "message_length": 116,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T17:36:26.610Z"
+  },
+  {
+    "user_id": "f5740@kp",
+    "message_length": 10,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T17:47:30.614Z"
+  },
+  {
+    "user_id": "f5740@kp",
+    "message_length": 2,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T17:47:38.158Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 115,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:01:15.233Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 3,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:01:28.112Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 12,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:01:34.552Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 19,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:01:43.263Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 14,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:05:53.012Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 13,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:17:04.347Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 23,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:17:08.376Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 13,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:17:10.724Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 64,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:17:26.200Z"
+  },
+  {
+    "user_id": "f9742@kp",
+    "message_length": 56,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:17:50.337Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 6,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:18:00.053Z"
+  },
+  {
+    "user_id": "f9742@kp",
+    "message_length": 42,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:18:02.001Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 19,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:18:05.058Z"
+  },
+  {
+    "user_id": "f9742@kp",
+    "message_length": 18,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:18:09.498Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 65,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:21:19.738Z"
+  },
+  {
+    "user_id": "9679f@kp",
+    "message_length": 30,
+    "device_type": "web",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:27:33.310Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 5,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:27:40.779Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 32,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:27:48.855Z"
+  },
+  {
+    "user_id": "9679f@kp",
+    "message_length": 25,
+    "device_type": "web",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:27:51.060Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 22,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:27:55.221Z"
+  },
+  {
+    "user_id": "9679f@kp",
+    "message_length": 49,
+    "device_type": "web",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:28:24.303Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 24,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-14T20:47:26.646Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 2,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T08:45:06.483Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 26,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T08:45:11.363Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 21,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T08:45:21.652Z"
+  },
+  {
+    "user_id": "f9756@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-15T09:22:37.662Z"
+  },
+  {
+    "user_id": "f9756@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-15T09:22:37.787Z"
+  },
+  {
+    "user_id": "f9756@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-15T09:22:38.092Z"
+  },
+  {
+    "user_id": "f9756@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-15T09:22:38.255Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 0,
+    "device_type": "android",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-15T09:38:10.817Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 63,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T09:43:35.518Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 24,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T09:44:02.014Z"
+  },
+  {
+    "user_id": "f9756@kp",
+    "message_length": 5,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T09:56:20.665Z"
+  },
+  {
+    "user_id": "f9a70@kp",
+    "message_length": 20,
+    "device_type": "web",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T10:29:30.592Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 5,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T12:03:38.708Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 26,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T12:03:38.836Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 26,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T15:26:06.032Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 7,
+    "device_type": "web",
+    "has_media": true,
+    "has_links": false,
+    "full_date": "2021-11-15T15:29:00.956Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 27,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T15:29:19.202Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 36,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T15:29:23.906Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 48,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T15:29:33.030Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 19,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T15:29:35.973Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 23,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T15:31:17.493Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 5,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T15:31:25.808Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 7,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T15:31:28.496Z"
+  },
+  {
+    "user_id": "f76a0@kp",
+    "message_length": 29,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T16:55:51.701Z"
+  },
+  {
+    "user_id": "f76a0@kp",
+    "message_length": 43,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T19:39:59.489Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 25,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T19:40:18.672Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 26,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T19:40:25.841Z"
+  },
+  {
+    "user_id": "f76a0@kp",
+    "message_length": 57,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T19:40:48.232Z"
+  },
+  {
+    "user_id": "96121@kp",
+    "message_length": 20,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T19:40:53.336Z"
+  },
+  {
+    "user_id": "f76a0@kp",
+    "message_length": 39,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T19:41:09.211Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 18,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T19:42:17.938Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 10,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T19:42:24.406Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 26,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T19:42:40.880Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 3,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T19:42:49.289Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 27,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:01:31.993Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 22,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:01:37.875Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 2,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:01:38.989Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 6,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:02:03.054Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 31,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:02:16.450Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 23,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:02:24.242Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 24,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:02:32.221Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 58,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:03:22.276Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 15,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:03:24.787Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 33,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:03:47.818Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 10,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:03:47.942Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 3,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:04:06.109Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 30,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:05:21.887Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 24,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:05:31.432Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 33,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:05:40.032Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 26,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:05:44.827Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 5,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:05:52.002Z"
+  },
+  {
+    "user_id": "f9a56@kp",
+    "message_length": 36,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:10:45.607Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 2,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:10:53.253Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 3,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:11:12.218Z"
+  },
+  {
+    "user_id": "f9742@kp",
+    "message_length": 59,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:12:58.186Z"
+  },
+  {
+    "user_id": "92a44@kp",
+    "message_length": 4,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-15T20:13:22.335Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 30,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T06:10:37.986Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 4,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T06:11:18.505Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 58,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T06:11:35.302Z"
+  },
+  {
+    "user_id": "f76a0@kp",
+    "message_length": 34,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T06:14:05.843Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 16,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T07:07:59.904Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 10,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T07:08:41.958Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 7,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T07:08:46.540Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 13,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T07:08:59.832Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 24,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T07:09:05.402Z"
+  },
+  {
+    "user_id": "9609a@kp",
+    "message_length": 2,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T07:09:33.219Z"
+  },
+  {
+    "user_id": "f9a70@kp",
+    "message_length": 37,
+    "device_type": "ios",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T19:46:42.982Z"
+  },
+  {
+    "user_id": "f6627@kp",
+    "message_length": 14,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T19:58:27.852Z"
+  },
+  {
+    "user_id": "9a0f4@kp",
+    "message_length": 14,
+    "device_type": "android",
+    "has_media": false,
+    "has_links": false,
+    "full_date": "2021-11-16T20:01:04.148Z"
+  }
+]
